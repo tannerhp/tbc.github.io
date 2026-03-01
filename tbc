@@ -1,5 +1,0 @@
-cd ~/Desktop/tbc
-git branch -M main
-git commit -m "Initial TBC website"
-git remote add origin https://github.com/tannerhp/tbc.git
-git push -u origin main
